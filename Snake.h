@@ -14,6 +14,7 @@ public:
     int score;
     char scoreBuffer[1];
 
+    // Methods
     void draw();
     void controls();
     void updateBody();
